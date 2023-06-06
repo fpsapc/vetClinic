@@ -31,7 +31,7 @@
 
 
 
-**[vet_clinic]** In this project, I use a relational database to create the initial data structure for a vet clinic. I create a table to store animals' information, insert some data into it, and query it.
+**[vet_clinic]** In this project, I use transactions to update and delete records. I also use my knowledge of aggregate functions and GROUP BY to answer analytical questions..
 
 ## 🛠 Built With <a name="built-with"></a>
 postgresSQL
@@ -48,9 +48,8 @@ postgresSQL
 
 ### Key Features <a name="key-features"></a>
 
-- **[Create a table to store animals]**
-- **[Can insert animals data]**
-- **[Can query animals data]**
+- **[update and delete records]**
+- **[Use aggregate functions and GROUP BY]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
