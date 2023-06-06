@@ -87,7 +87,7 @@ https://github.com/fpsapc/vetClinic
 👤 **Salman Ahmad Khan**
 
 - GitHub: [@githubhandle](https://github.com/fpsapc)
-- Twitter: [@twitterhandle](https://twitter.com/salman-ahmadkhan1987)
+- Twitter: [@twitterhandle](https://twitter.com/fpsapc)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/salman-ahmad1987 )
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
