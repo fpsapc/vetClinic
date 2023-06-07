@@ -31,7 +31,7 @@
 
 
 
-**[vet_clinic]** In this project, I use transactions to update and delete records. I also use my knowledge of aggregate functions and GROUP BY to answer analytical questions..
+**[vet_clinic]** In this project, I use transactions to update and delete records. I also use my knowledge of aggregate functions and GROUP BY to answer analytical questions.I add some new tables and add foreign key columns to existing animals table to model one-to-many relationships. Afterward, use JOIN to query the data.
 
 ## 🛠 Built With <a name="built-with"></a>
 postgresSQL
@@ -50,6 +50,9 @@ postgresSQL
 
 - **[update and delete records]**
 - **[Use aggregate functions and GROUP BY]**
+- **[Add new tables owners and species]**
+- **[Use primary and foreign key in tables]**
+- **[Use JOIN to query data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
