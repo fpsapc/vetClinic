@@ -50,9 +50,14 @@ INSERT INTO vets (name, age, date_of_graduatioin) VALUES ('William Tatcher',45,'
 ('Stephanie Mendez',64,'1981-05-04'),
 ('Jack Harkness',38,'2008-06-08');
 
-INSERT INTO specializations (vet_id, species_id) VALUES (1,1),
-(3,2),
-(4,2);
+INSERT INTO specializations (vet_id, species_id)
+VALUES
+    (1, 1),
+    (3, 1),
+    (3, 2),
+    (4, 2);
+
+
 
 INSERT INTO visits (animal_id, vet_id, visit_date) VALUES (1,1,'2020-05-24'),
 (1,3,'2020-07-22'),
@@ -62,7 +67,7 @@ INSERT INTO visits (animal_id, vet_id, visit_date) VALUES (1,1,'2020-05-24'),
 (3,2,'2020-05-14'),
 (4,3,'2021-05-04'),
 (5,4,'2021-02-24'),
-(6,2,'2019-10-21'),
+(6,2,'2019-12-21'),
 (6,1,'2020-08-10'),
 (6,2,'2021-04-07'),
 (7,3,'2019-09-19'),
