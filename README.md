@@ -95,11 +95,11 @@ https://github.com/fpsapc/vetClinic
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Salman Ahmad Khan**
+👤 **Daniel Falcon**
 
-- GitHub: [@githubhandle](https://github.com/fpsapc)
-- Twitter: [@twitterhandle](https://twitter.com/fpsapc)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/salman-ahmad1987 )
+- GitHub: [@Danfall369](https://github.com/Danfall369)
+- Twitter: [@Danfall369](https://twitter.com/Danfall369)
+- Linkeid [@Danfall369](https://www.linkedin.com/in/danfall369/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
