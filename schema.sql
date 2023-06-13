@@ -26,7 +26,7 @@ CREATE TABLE vets (
     id SERIAL PRIMARY KEY,
     name VARCHAR,
     age INT,
-    date_of_graduatioin DATE
+    date_of_graduation DATE
 );
 
 CREATE TABLE specializations (
