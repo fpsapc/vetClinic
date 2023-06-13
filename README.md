@@ -85,7 +85,7 @@ https://github.com/fpsapc/vetClinic
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Author´s <a name="authors"></a>
 
 👤 **Salman Ahmad Khan**
 
@@ -93,7 +93,6 @@ https://github.com/fpsapc/vetClinic
 - Twitter: [@twitterhandle](https://twitter.com/fpsapc)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/salman-ahmad1987 )
 
-## 👥 Author <a name="authors"></a>
 
 👤 **Daniel Falcon**
 
