@@ -3,14 +3,6 @@
 <div align="center">
   
   <h3><b>Vet_Clinic README</b></h3>
-In this project a relational database named vet_clinic created. This database include data about:
-
-- animals
-- owners
-- vets
-- species
-- visits
-![Database-Schema-Diagram](./drawSQL.png)
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -39,7 +31,7 @@ In this project a relational database named vet_clinic created. This database in
 # 📖 Vet Clinic Database <a name="about-project"></a>
 
 **Vet Clinic Database** is a database project for a veterinary clinic. It includes tables for animals, owners, clinic employees, and visits.
-
+![Database-Schema-Diagram](./drawSQL.png)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
