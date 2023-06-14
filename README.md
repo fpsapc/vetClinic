@@ -3,7 +3,14 @@
 <div align="center">
   
   <h3><b>Vet_Clinic README</b></h3>
+In this project a relational database named vet_clinic created. This database include data about:
 
+- animals
+- owners
+- vets
+- species
+- visits
+![Database-Schema-Diagram](./drawSQL.png)
 </div>
 
 <!-- TABLE OF CONTENTS -->
