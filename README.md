@@ -3,61 +3,67 @@
 <div align="center">
   
   <h3><b>Vet_Clinic README</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 Vet Clinic Database <a name="about-project"></a>
 
-# 📖 [vet_clinic] <a name="about-project"></a>
-
-
-
-**[vet_clinic]** In this project, I use transactions to update and delete records. I also use my knowledge of aggregate functions and GROUP BY to answer analytical questions.I add some new tables and add foreign key columns to existing animals table to model one-to-many relationships. Afterward, use JOIN to query the data. Add some many-to-many relationships and write more complex queries.
-
+**Vet Clinic Database** is a database project for a veterinary clinic. It includes tables for animals, owners, clinic employees, and visits.
+![Database-Schema-Diagram](./drawSQL.png)
 ## 🛠 Built With <a name="built-with"></a>
-postgresSQL
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>PostgresSQL</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="#">PostgresSQL</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
-<!-- Features -->
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-- **[update and delete records]**
-- **[Use aggregate functions and GROUP BY]**
-- **[Add new tables owners and species]**
-- **[Use primary and foreign key in tables]**
-- **[Use JOIN to query data]**
-- **[Add many to many relationships]**
+- **N/A**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- GETTING STARTED -->
+- **N/A**
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
